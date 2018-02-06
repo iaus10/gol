@@ -1,4 +1,4 @@
-copied from https://github.com/tanpv/gol as exercise in creating\populating remote GIThub repo
+Originally copied from https://github.com/tanpv/gol as exercise in creating\populating remote GIThub repo
 -----------------------
 
 This is a simple demonstration application used in the Jenkins Boostcamp course
